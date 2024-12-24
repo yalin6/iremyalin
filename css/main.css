@@ -205,7 +205,7 @@
 }
 
 .about-image-1 {
-  background-image: url("https://dummyimage.com/1400x1000/4d4d4d/636363");
+  background-image: url("../img/person/iremyalin.png");
 }
 
 .marquee-image-single-1 {
@@ -483,13 +483,13 @@ h1 {
 
 @media only screen and (min-width: 1400px) {
   h1 {
-    font-size: 6rem; /* Büyük ekranlar için ideal boyut */
+    font-size: 7rem; /* Büyük ekranlar için ideal boyut */
   }
 }
 
 @media only screen and (min-width: 1600px) {
   h1 {
-    font-size: 7rem; /* Çok geniş ekranlar için */
+    font-size: 8rem; /* Çok geniş ekranlar için */
   }
 }
 
@@ -810,7 +810,7 @@ h6 {
 }
 
 p {
-  font: normal var(--font-weight-base) 1.8rem var(--_font-default);
+  font: normal var(--font-weight-base) 1.7rem var(--_font-default);
   color: var(--t-bright);
 }
 p.type-basic-160lh {
